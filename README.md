@@ -29,11 +29,6 @@ NEPS has seen numerous performance improvements, even from an already fantastica
 - Color Palette: hold Your accent colors for configuring visual features
 - Config Drag&Drop: You can drag'n'drop some individual items as well! Like colors, aimbot weapon settings, anti-aim conditionals, and ESP.
 
-<sup>psst... right click to bring up the context menu</sup>
-
-# How to obtain a working NEPS build?
-Currently, weekly builds are available to Patreon supporters only. Builds for patrons are posted both on EOT Discord server and on Patreon.
-
 ## NEPS dependencies
 - Visual Studio 2022
 - Windows SDK 10.0.X.X
